@@ -10,4 +10,6 @@ This repository contains all of the source code related to Responsive Web Design
 3. Nutrition Label
 4. Accessibility Quiz
 5. Tribute Page
+6. Balance Sheet
+7. Picasso Painting
    
