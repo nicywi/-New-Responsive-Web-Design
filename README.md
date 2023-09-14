@@ -3,7 +3,7 @@ This repository contains all of the source code related to Responsive Web Design
 
 # Course in progress 
 
-## Projects
+## [Projects](https://nicywi.github.io/New-Responsive-Web-Design/)
 
 1. Registration Form
 2. Survey Form
@@ -15,5 +15,9 @@ This repository contains all of the source code related to Responsive Web Design
 8. Piano
 9. Cat
 10. Technical Documentation Page
+11. [City Skyline](https://nicywi.github.io/New-Responsive-Web-Design/11.%20City%20Skyline/)
+
+
+
 
    
