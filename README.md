@@ -16,7 +16,9 @@ This repository contains all of the source code related to Responsive Web Design
 9. [Cat](https://nicywi.github.io/New-Responsive-Web-Design/9.%20Cat/)
 10. [Technical Documentation Page](https://nicywi.github.io/New-Responsive-Web-Design/10.%20Technical%20Documentation%20Page/)
 11. [City Skyline](https://nicywi.github.io/New-Responsive-Web-Design/11.%20City%20Skyline/)
-12. [Magazine](https://nicywi.github.io/New-Responsive-Web-Design/11.%20City%20Skyline/)
+12. [Magazine]
+13. [Ferris Wheel]
+14. [Penguin]
 
 
 
